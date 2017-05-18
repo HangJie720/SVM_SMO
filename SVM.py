@@ -1,9 +1,7 @@
 #################################################
 # SVM: support vector machine
-# Author : zouxy
-# Date   : 2013-12-12
-# HomePage : http://blog.csdn.net/zouxy09
-# Email  : zouxy09@qq.com
+# Author : HangJie
+# Date   : 2016-12-12
 #################################################
 
 from numpy import *
